@@ -6,7 +6,7 @@
 
 ## About
 
-**Cohere Caatalog** is a Python-based data analysis and content generation tool that leverages catalog data to help gardeners make informed planting decisions. By analyzing a CSV catalog and using Cohere's language model, the application generates a curated HTML table listing five things to plant in Carpinteria, CA, complete with product names, catalog IDs, and planting instructions.
+**Cohere Catalog** is a Python-based data analysis and content generation tool that leverages catalog data to help gardeners make informed planting decisions. By analyzing a CSV catalog and using Cohere's language model, the application generates a curated HTML table listing five things to plant in Carpinteria, CA, complete with product names, catalog IDs, and planting instructions.
 
 ## Features
 
